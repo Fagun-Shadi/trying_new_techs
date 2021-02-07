@@ -3,4 +3,4 @@ Here, I have tried implementing Java programs and various tools like Maven, Juni
 The folder titled try_pal contains the problem statement - "Java Program to Print Smallest and Biggest Possible Palindrome Word in a Given String".
 The Junit testing checks if the input string is palindrome.
 
-The folder titled rest_service has a very simple rest implementation
+The folder titled rest_service has a very basic rest implementation using spring framework and maven. Resource link - https://www.youtube.com/watch?v=MWLe1tqPmUo
