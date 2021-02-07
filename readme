@@ -3,6 +3,9 @@ Here, I have tried implementing Java programs and various tools like Maven, Juni
 The folder titled try_pal contains the problem statement - "Java Program to Print Smallest and Biggest Possible Palindrome Word in a Given String".
 The Junit testing checks if the input string is palindrome.
 
+The folder titled inverse contains the solution to problem statement "Matrix inverse" for a 2*2 and 3*3 matrix.
+The Junit testing checks if the determinant of matrix is correct.
+
 The folder rem_dupli contains the solution to problem statement - "Remove duplicates from an array".
 The Junit testing doesn't check for any related function but it checks if the number matches itself.
 
