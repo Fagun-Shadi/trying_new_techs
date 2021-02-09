@@ -1,3 +1,5 @@
+_bugs_ branch contains programs which have some logical errors or are yet to be completely coded.
+
 Here, I have tried implementing Java programs and various tools like Maven, Junit testing, Rest services using Spring framework.
 
 The folder titled try_pal contains the problem statement - "Java Program to Print Smallest and Biggest Possible Palindrome Word in a Given String".
