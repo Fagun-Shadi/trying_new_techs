@@ -6,4 +6,7 @@ The Junit testing checks if the input string is palindrome.
 The folder rem_dupli contains the solution to problem statement - "Remove duplicates from an array".
 The Junit testing doesn't check for any related function but it checks if the number matches itself.
 
-The folder titled rest_service has a very basic rest implementation using spring framework and maven. Resource link - https://www.youtube.com/watch?v=MWLe1tqPmUo
+The folder titled restful-web-services has a very basic rest implementation using spring framework and maven. 
+Implemented till now- GET, POST & DELETE mapping, Exception Handling, HTTP Response statuses.
+Implementation left- Validation, HATEOAS, Swagger.
+Resource is - Udemy Tutorial "Master Micro Services with Spring Boot and Spring Cloud"
