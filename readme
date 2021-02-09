@@ -1,12 +1,7 @@
 Here, I have tried implementing Java programs and various tools like Maven, Junit testing, Rest services using Spring framework.
 
-The folder titled try_pal contains the problem statement - "Java Program to Print Smallest and Biggest Possible Palindrome Word in a Given String".
-The Junit testing checks if the input string is palindrome.
-
 The folder titled inverse contains the solution to problem statement "Matrix inverse" for a 2*2 and 3*3 matrix.
 The Junit testing checks if the determinant of matrix is correct.
 
-The folder rem_dupli contains the solution to problem statement - "Remove duplicates from an array".
-The Junit testing doesn't check for any related function but it checks if the number matches itself.
-
-The folder titled rest_service has a very basic rest implementation using spring framework and maven. Resource link - https://www.youtube.com/watch?v=MWLe1tqPmUo
+The folder digit contains the solution to problem statement - "Convert 4 digit number to string".
+Haven't implemented Junit testing function here.
